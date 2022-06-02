@@ -1,0 +1,62 @@
+/* 
+COLOR PALETTE
+#f4f1de - almost white
+#e07a5f - salmon
+#3d405b - navy
+#81b29a - sage
+#f2cc8f - cream orange
+*/
+
+/* Global Styles
+------------------------*/
+body {
+    color: #3d405b; 
+ }
+ 
+ img {
+     width: 300px;
+ }
+ 
+ a {
+     color: #f2cc8f ;
+     background: #3d405b;
+     padding: 8px;
+     border-radius: 4px;
+     
+ }
+ 
+ a:hover {
+     text-decoration: none;
+     background: #515263;
+ }
+ 
+ /* Profile
+ ------------------------*/
+ header {
+     background: #3d405b;
+     color: #f4f1de;
+ }
+ 
+ /* Projects
+ ------------------------*/
+ .projects {
+     background: #f4f1de; 
+ }
+ 
+ /* Work Experience
+ ------------------------*/
+ .work-experience {
+     background: #81b29a;
+ }
+ 
+ /* Education
+ ------------------------*/
+ .education {
+     background: #f2cc8f;
+ }
+ 
+ /* Contact
+ ------------------------*/
+ .contact {
+ background: #e07a5f;
+ }
